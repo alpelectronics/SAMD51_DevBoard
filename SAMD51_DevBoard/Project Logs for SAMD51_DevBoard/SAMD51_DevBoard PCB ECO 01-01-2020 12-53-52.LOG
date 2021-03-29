@@ -1,0 +1,147 @@
+Removed Pin From Net: NetName=PB07 Pin=P4-2
+Removed Pin From Net: NetName=PA15 Pin=P4-4
+Removed Pin From Net: NetName=PB12 Pin=P4-6
+Removed Pin From Net: NetName=PB13 Pin=P4-8
+Removed Pin From Net: NetName=PB14 Pin=P4-10
+Removed Pin From Net: NetName=PB05 Pin=P4-11
+Removed Pin From Net: NetName=PB15 Pin=P4-12
+Removed Pin From Net: NetName=PB06 Pin=P4-13
+Change Component Footprint: Designator=P4 Old Footprint=HDR2X7 New Footprint=HDR2X5
+Change Component Comment : Designator=P4 Old Comment=Header 7X2 New Comment=Header 5X2
+Added Component: Designator=D1(LED 0603/1608 BLUE)
+Add component (AddParameter): Name = "Colour"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avagotech.com/docs/AV02-0977EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.ca/product-detail/en/HSMR-C190/516-2502-2-ND/1235444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current (Test)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Avago Technologies US Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela"; Value = "55mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HSMR-C190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3614"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "516-2502-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = "3.4V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED 0603/1608 GREEN)
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avagotech.com/docs/AV02-0977EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.ca/product-detail/en/HSMQ-C191/516-1807-2-ND/1012398"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current (Test)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Avago Technologies US Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela"; Value = "145mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HSMQ-C191"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7059"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.4769"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "516-1807-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = "3.4V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED 0603/1608 RED)
+Add component (AddParameter): Name = "Colour"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.dialight.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C16413.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.ca/product-detail/en/5975112407F/350-2436-2-ND/2432587"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current (Test)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela"; Value = "11.7mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5975112407F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7057"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "350-2436-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "152"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = "1.7V"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES 0603/1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ222V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ222V/P2.2KGTR-ND/135862"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEYJ222V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "11184"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P2.2KGTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "200ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 0603/1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ222V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ222V/P2.2KGTR-ND/135862"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEYJ222V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "11184"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P2.2KGTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "200ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES 0603/1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ222V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ222V/P2.2KGTR-ND/135862"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEYJ222V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "11184"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P2.2KGTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "200ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=PB05 Pin=P4-2
+Added Pin To Net: NetName=PB06 Pin=P4-4
+Added Pin To Net: NetName=PB07 Pin=P4-6
+Added Pin To Net: NetName=PB14 Pin=P4-8
+Added Pin To Net: NetName=PB15 Pin=P4-10
+Added Pin To Net: NetName=PB12 Pin=R6-1
+Added Pin To Net: NetName=PB13 Pin=R7-1
+Added Pin To Net: NetName=PA15 Pin=R8-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R6-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R7-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R8-2
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component D1 Blue
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component D2 Green
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component D3 Red
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R6 2.2k
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R7 2.2k
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R8 2.2k

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=IC3-1
+Removed Pin From Net: NetName=+3V3 Pin=IC3-2
+Removed Pin From Net: NetName=VUSB Pin=IC3-3
+Removed Pin From Net: NetName=+3V3 Pin=IC3-4
+Removed Member From Class: ClassName=SAMD51_DevBoard Member=IC3
+Added Component: Designator=U2(TI SOT-23-5 DBV)
+Add component (AddParameter): Name = "Device Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TPS73633DBVT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7968"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-15819-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Positive Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VUSB Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VUSB Pin=U2-3
+Added Pin To Net: NetName=+3V3 Pin=U2-5
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component U2 AP2112K-3.3TRG1

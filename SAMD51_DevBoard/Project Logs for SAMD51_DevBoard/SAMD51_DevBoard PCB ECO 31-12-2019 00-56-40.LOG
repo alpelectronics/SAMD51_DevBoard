@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=PB12 Pin=P4-8
+Removed Pin From Net: NetName=PB13 Pin=P4-10
+Removed Pin From Net: NetName=PB14 Pin=P4-12
+Removed Pin From Net: NetName=PB15 Pin=P4-14
+Removed Pin From Net: NetName=PB07 Pin=P4-15
+Removed Pin From Net: NetName=PB31 Pin=P4-16
+Change Component Footprint: Designator=P4 Old Footprint=HDR2X8 New Footprint=HDR2X7
+Change Component Comment : Designator=P4 Old Comment=Header 8X2 New Comment=Header 7X2
+Added Pin To Net: NetName=PB07 Pin=P4-2
+Added Pin To Net: NetName=PB12 Pin=P4-6
+Added Pin To Net: NetName=PB13 Pin=P4-8
+Added Pin To Net: NetName=PB14 Pin=P4-10
+Added Pin To Net: NetName=PB15 Pin=P4-12
+Added Pin To Net: NetName=PB31 Pin=P4-14

@@ -1,0 +1,17 @@
+Added Component: Designator=S1(SKSGACE010)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.se/datasheet/2/15/SKSG-1370727.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.se/ProductDetail/ALPS/SKSGACE010?qs=Ptl%2FSkKmb3BEFq%252BG855%2Fog=="; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SKSGACE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "16471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "688-SKSGACE010"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=S1-1
+Added Pin To Net: NetName=RESET Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S1-5
+Added Pin To Net: NetName=GND Pin=S1-6
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component S1 SKSGACE010

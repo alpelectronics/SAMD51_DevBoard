@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=S1-5
+Removed Pin From Net: NetName=GND Pin=S1-6
+Removed Pin From Net: NetName=GND Pin=U1-65
+Change Component Footprint: Designator=S1 Old Footprint= New Footprint=SKSGACE010
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C1 1uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C2 1uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C3 10uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C4 12pF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C5 12pF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C6 0.1uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C7 1uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C8 1uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C9 10uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C10 1uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C11 10uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component C12 0.1uF
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component D1 FM-B2020RGBA-HG
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component IC1 MX25R3235FZNIL0
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component IC2 PRTR5V0U2X,215
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component J1 USB4110-GF-A
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component L1 Inductor Iron
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component P1 FTSH-105-01-F-DV-K-TR
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component P2 Header 12
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component P3 Header 16
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component P4 Header 5X2
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R1 5.1k
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R2 5.1k
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R3 10k
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R4 10k
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R5 10k
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R6 360
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R7 150
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component R8 150
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component S1 SKSGACE010
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component U1 ATSAMD51J20A-MU
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component U2 AP2112K-3.3TRG1
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component Y1 32.768kHz

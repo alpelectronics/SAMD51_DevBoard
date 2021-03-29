@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3V3 Pin=+1-1
+Removed Pin From Net: NetName=GND Pin=GND1-1
+Removed Member From Class: ClassName=SAMD51_DevBoard Member=+1
+Removed Member From Class: ClassName=SAMD51_DevBoard Member=GND1

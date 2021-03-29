@@ -1,0 +1,24 @@
+Added Component: Designator=IC2(SOT143B)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.com/product-detail/en/nxp-semiconductors/PRTR5V0U2X,215/568-4140-2-ND/1163690"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Peak Pulse"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "TO-253-4, TO-253AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40C ~ 85C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PRTR5V0U2X,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "9755"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power - Peak Pulse"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "568-4140-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Steering (Rail to Rail)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (Breakdown)"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (Clamping)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (Reverse Standoff)"; Value = "5.5V (Max)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=D_P Pin=IC2-2
+Added Pin To Net: NetName=D_N Pin=IC2-3
+Added Pin To Net: NetName=VUSB Pin=IC2-4
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component IC2 PRTR5V0U2X,215

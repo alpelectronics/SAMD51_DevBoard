@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=PB12 Pin=R6-1
+Removed Pin From Net: NetName=NetD1_1 Pin=R6-2
+Removed Pin From Net: NetName=PB13 Pin=R7-1
+Removed Pin From Net: NetName=PA15 Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=U1-65
+Removed Member From Class: ClassName=SAMD51_DevBoard Member=D2
+Removed Member From Class: ClassName=SAMD51_DevBoard Member=D3
+Change Component Footprint: Designator=D1 Old Footprint=LED 0603/1608 BLUE New Footprint=FM-B2020RGBA-HG
+Change Component Comment : Designator=R7 Old Comment=2.2k New Comment=150
+Change Component Comment : Designator=R8 Old Comment=2.2k New Comment=150
+Change Component Comment : Designator=R6 Old Comment=2.2k New Comment=360
+Change Component Comment : Designator=D1 Old Comment=Blue New Comment=FM-B2020RGBA-HG
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES 0603/1608"; UniqueID = "\BUSBVVPM" ("\BUSBVVPM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ361V+7+WW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ361V/P360GTR-ND/135761"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3GEYJ361V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "11239"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P360GTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoefficient"; Value = "200ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "360"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES 0603/1608"; UniqueID = "\FVREQLCU" ("\FVREQLCU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ151V+7+WW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ151V/P150GTR-ND/135689"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3GEYJ151V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "11200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P150GTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoefficient"; Value = "200ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES 0603/1608"; UniqueID = "\SOYOCOJU" ("\SOYOCOJU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ151V+7+WW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ151V/P150GTR-ND/135689"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3GEYJ151V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "11200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P150GTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoefficient"; Value = "200ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED 0603/1608 BLUE"; UniqueID = "\MJXJKTYB" ("\MJXJKTYB")
+Change component parameters (AddParameter): Name = "Colour"; Value = "RGB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1810231210_Foshan-NationStar-Optoelectronics-FM-B2020RGBA-HG_C108793.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC Listing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_FM-B2020RGBA-HG_C108793.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Foshan NationStar Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "FM-B2020RGBA-HG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "10872"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C108793"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_1 Pin=R6-1
+Added Pin To Net: NetName=PB12 Pin=R6-2
+Added Pin To Net: NetName=PB13 Pin=R7-2
+Added Pin To Net: NetName=PA15 Pin=R8-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R8-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=R7-1
+Added Net: Name=NetD1_4

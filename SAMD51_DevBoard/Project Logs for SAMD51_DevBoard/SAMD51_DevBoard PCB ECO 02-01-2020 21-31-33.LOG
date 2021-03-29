@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=PB00 Pin=P4-1
+Removed Pin From Net: NetName=PB05 Pin=P4-2
+Removed Pin From Net: NetName=PB06 Pin=P4-4
+Removed Pin From Net: NetName=PB07 Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=U1-65
+Added Component: Designator=+1(TE TP 0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/RCT-0C/A106144CT-ND/3477801"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RCT-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "15704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106144CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=GND1(TE TP 0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/RCT-0C/A106144CT-ND/3477801"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RCT-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "15704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106144CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=+1-1
+Added Pin To Net: NetName=GND Pin=GND1-1
+Added Pin To Net: NetName=PB07 Pin=P4-1
+Added Pin To Net: NetName=PB06 Pin=P4-2
+Added Pin To Net: NetName=PB05 Pin=P4-4
+Added Pin To Net: NetName=PB00 Pin=P4-6
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component +1 RCT-0C
+Added Member To Class: ClassName=SAMD51_DevBoard Member=Component GND1 RCT-0C
